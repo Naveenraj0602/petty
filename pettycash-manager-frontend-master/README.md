@@ -1,6 +1,6 @@
-# Pettypal - simplifying cash management with a smile!
+# PettyCash Manager - simplifying cash management with a smile!
 
-Pettypal is a web-based application designed to help people (individuals / professionals - Pettycash managers) to manage their petty cash transactions. User can signup and start using this for tracking the transactions(Fund_In / Fund_Out) made, managing the capital balance & maintaining the updates of the transactions/capital balance and user!
+PettyCash Manager is a web-based application designed to help people (individuals / professionals - Pettycash managers) to manage their petty cash transactions. User can signup and start using this for tracking the transactions(Fund_In / Fund_Out) made, managing the capital balance & maintaining the updates of the transactions/capital balance and user!
 
 ## Features
 
@@ -33,4 +33,4 @@ Pettypal is a web-based application designed to help people (individuals / profe
 + Additional Libraries:Axios, MUI(Components & Theme), Nivo charts, dayjs, formik, yup
 
 ### Deployment
-Netlify deployment - https://nv-pettypal.netlify.app
+vercel deployment - https://pettycash-manager-frontend-master.vercel.app/login
